@@ -137,5 +137,11 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 ## Acknowledgments
 
-- Data sourced from the UN's digital library and other socio-economic datasets.
-- This project uses various Python libraries for data scraping, processing, and visualization, along with advanced AI models for data analysis and response generation.
+- **Data Sources**: This project incorporates data from the UN's digital library and specifically uses datasets available on Kaggle:
+  - [UN Resolutions Dataset](https://www.kaggle.com/datasets/guybarash/un-resolutions)
+  - [Socioeconomic Country Profiles](https://www.kaggle.com/datasets/nishanthsalian/socioeconomic-country-profiles)
+- **Technological Stack**: The project utilizes various Python libraries for data scraping, processing, and visualization. For advanced data analysis and response generation, the project leverages AI models including:
+  - `llama-3.2-3b-preview` for natural language processing and generation tasks.
+  - `sentence-transformers/all-mpnet-base-v2` for generating robust and semantically meaningful embeddings.
+  
+These resources have been instrumental in enabling comprehensive analysis and interpretation of complex geopolitical data through the innovative application of AI technologies.
